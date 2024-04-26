@@ -1,4 +1,5 @@
 # python-challenge
+tutor provided assitance utilizing float combined with infinity
 pybank uses a number of variables in tandem with a list and two dictionaries to:
   calculate the total gain/loss of a bank
   count the number of months in the given financial record
